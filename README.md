@@ -10,6 +10,7 @@ Building scalable web applications and database-driven systems.
   <a href="https://www.linkedin.com/in/mohamed-abu-subiyan-m-260509288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:mohamedabusubiyanm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -22,25 +23,34 @@ Building scalable web applications and database-driven systems.
 ## 👨‍💻 About Me
 
 - 💼 Backend Developer specializing in **PHP & Laravel**
-- 🗄️ Passionate about designing efficient **database-driven applications**
+- 🗄️ Passionate about building efficient **database-driven applications**
 - 🔗 Experienced in **REST API development & integration**
-- 🌱 Currently improving my backend architecture and API development skills
+- 🚀 Interested in scalable backend systems and clean architecture
+- 🌱 Currently improving my backend development and Kotlin skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,kotlin" />
-</p>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=php,python,kotlin,mysql" />
+
+<br><br>
+
+### Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=laravel,html,css" />
+
+<br><br>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,phpstorm,androidstudio" />
+
+</div>
 
 ---
 
@@ -55,27 +65,18 @@ Building scalable web applications and database-driven systems.
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedabusubiyan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedabusubiyan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedabusubiyan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</td>
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedabusubiyan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohamedabusubiyan&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=mohamedabusubiyan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,23 +84,21 @@ Building scalable web applications and database-driven systems.
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedabusubiyan&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedabusubiyan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-abu-subiyan-m-260509288">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mohamedabusubiyanm@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -108,6 +107,8 @@ Building scalable web applications and database-driven systems.
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ **Thanks for visiting my profile!**
+
+*Feel free to explore my repositories and connect with me.*
 
 </div>
