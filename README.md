@@ -29,7 +29,6 @@ Building scalable web applications and database-driven systems.
 - 🌱 Currently improving my backend development and Kotlin skills
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -38,13 +37,9 @@ Building scalable web applications and database-driven systems.
 
 <img src="https://skillicons.dev/icons?i=php,python,kotlin,mysql" />
 
-<br><br>
-
 ### Frameworks & Technologies
 
 <img src="https://skillicons.dev/icons?i=laravel,html,css" />
-
-<br><br>
 
 ### Tools
 
