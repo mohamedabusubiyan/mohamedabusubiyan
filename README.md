@@ -2,11 +2,15 @@
 
 # Hi, I'm Abu 👋
 
-### Backend Developer | PHP • Laravel • MySQL • REST APIs
+### Backend Developer | Laravel • PHP • PostgreSQL • Python • n8n
 
-Building scalable web applications and database-driven systems.
+Building production backends, payment workflows and AI-powered automations for a logistics-tech platform.
 
 <p>
+  <a href="https://mohamedabusubiyan.github.io/portfolio_abu/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+
   <a href="https://www.linkedin.com/in/mohamed-abu-subiyan-m-260509288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -22,28 +26,36 @@ Building scalable web applications and database-driven systems.
 
 ## 👨‍💻 About Me
 
-- 💼 Backend Developer specializing in **PHP & Laravel**
-- 🗄️ Passionate about building efficient **database-driven applications**
-- 🔗 Experienced in **REST API development & integration**
-- 🚀 Interested in scalable backend systems and clean architecture
-- 🌱 Currently improving my backend development and Kotlin skills
+- 💼 Associate Software Developer at a logistics-tech startup in Chennai: **600+ merged pull requests** in production
+- 💳 Contributed to **bank payment workflows**: bulk vendor payouts, OTP approval, failed-payment handling
+- 🤖 Implemented **n8n + WhatsApp automations** and AI features: booking creation from chat, AI voice-call agent, AI lead reports
+- 📈 Implemented a **freight-rate estimation engine** with an ML price-prediction model
+- 🔗 Integrated **6+ third-party APIs**: lead platforms, GST/RC verification, Google Sheets, WhatsApp, Firebase
+- 🖥️ Manage **4 Linux/Nginx production servers**: deployments, monitoring, troubleshooting
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=php,python,kotlin,mysql" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,postgres,mysql" />
 
-### Frameworks & Technologies
+### Automation & AI
 
-<img src="https://skillicons.dev/icons?i=laravel,html,css" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integrations-6E56CF?style=for-the-badge&logoColor=white" />
 
-### Tools
+### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,phpstorm,androidstudio" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,aws,firebase,git,github" />
+
+### Tools & Mobile
+
+<img src="https://skillicons.dev/icons?i=postman,vscode,phpstorm,kotlin,androidstudio" />
 
 </div>
 
@@ -51,10 +63,9 @@ Building scalable web applications and database-driven systems.
 
 ## 🚀 Currently Working On
 
-- 🔹 Building backend applications using **PHP & Laravel**
-- 🔹 REST API development & Postman testing
-- 🔹 Improving database design and query optimization
-- 🔹 Learning Kotlin for Android development
+- 🔹 AI-driven automation with **n8n, WhatsApp and LLMs**
+- 🔹 Scalable Laravel architecture: services, repositories, queues
+- 🔹 Production reliability: monitoring, alerts and performance tuning
 
 ---
 
@@ -62,22 +73,6 @@ Building scalable web applications and database-driven systems.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedabusubiyan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mohamed-abu-subiyan-m-260509288">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mohamedabusubiyanm@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ---
